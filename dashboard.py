@@ -31,8 +31,7 @@ before_filter = shot_data
 
 # filter for the data
 famous_players = [
-    'LeBron James', 'Kobe Bryant', 'Stephen Curry', 'Kevin Durant',
-    'Chris Paul', 'Tim Duncan', 'Dirk Nowitzki', 'Dwyane Wade',
+    'LeBron James', 'Kobe Bryant', 'Stephen Curry', 'Chris Paul', 'Tim Duncan', 
     'Kawhi Leonard', 'Russell Westbrook', 'James Harden', 'Carmelo Anthony',
     'Paul Pierce', 'Klay Thompson', 'Pau Gasol', 'Blake Griffin',
     'Anthony Davis', 'Marc Gasol', 'Damian Lillard', 'Giannis Antetokounmpo'
