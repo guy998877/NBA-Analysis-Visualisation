@@ -12,9 +12,10 @@ This project allows you to:
 
 ## Demo
 
-Check out the live demo of the application: [NBA Shot Chart Visualization](https://nba-analysis-visualisation-xttial8dmeab39rbmfmrzg.streamlit.app/)
+Check out the live demo of the application: [NBA Shot Chart Visualization]([https://nba-analysis-visualisation-xttial8dmeab39rbmfmrzg.streamlit.app/](https://nba-analysis-visualisation-ghvkehejxz3pvwc2y3efcl.streamlit.app))
 
-![image](https://github.com/user-attachments/assets/37f3e4aa-25c8-4acc-9c0e-c4e551263347)
+![image](https://github.com/user-attachments/assets/40e61b69-f13e-4c80-ac9f-e4d6708f7cd6)
+
 
 
 ## Installation
